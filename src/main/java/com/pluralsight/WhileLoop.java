@@ -9,5 +9,13 @@ public class WhileLoop {
             System.out.println("I love java");
             i++;
         }
+
+        //added a do while loop to print I love java 5 times.
+        int j = 1;
+        do {
+            System.out.println("I love java 2");
+            j++;
+
+        } while(j <= 5);
     }
 }
