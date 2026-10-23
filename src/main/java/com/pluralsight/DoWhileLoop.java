@@ -2,6 +2,8 @@ package com.pluralsight;
 
 public class DoWhileLoop {
     public static void main(String[] args) {
+
+        //do while loop to sout I love java;
         int j = 1;
         do {
             System.out.println("I love java");
